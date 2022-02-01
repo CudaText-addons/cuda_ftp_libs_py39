@@ -1,0 +1,7 @@
+[info]
+title=SFTP support for FTP plugin, Windows x32/x64, Python 3.9
+desc=Note! For this package to work, you must create the HARDLINK from python39.dll to python3.dll in the CudaText folder.
+type=cudatext-plugin
+subdir=cuda_ftp_libs_py39
+homepage=https://github.com/CudaText-addons/cuda_ftp_libs_py39
+os=win
